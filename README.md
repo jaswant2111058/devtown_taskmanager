@@ -1,6 +1,6 @@
 # Task Manager 
 
-live [https://master.d3k595mnu8w38y.amplifyapp.com/] (https://master.d3k595mnu8w38y.amplifyapp.com/)
+live [https://master.d3k595mnu8w38y.amplifyapp.com/](https://master.d3k595mnu8w38y.amplifyapp.com/)
 
 In the project directory, you can run:
 
