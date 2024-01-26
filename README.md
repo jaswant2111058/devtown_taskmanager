@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+# Task Manager 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+live [https://master.d3k595mnu8w38y.amplifyapp.com/] (https://master.d3k595mnu8w38y.amplifyapp.com/)
 
 In the project directory, you can run:
 
